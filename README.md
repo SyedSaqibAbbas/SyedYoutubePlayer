@@ -7,7 +7,7 @@
 
 
 
-[Demo](https://samirhodzic.github.io/ngx-youtube-player) (Updated: 06/01/2019)
+
 
 ## Quickstart
 
@@ -49,17 +49,11 @@ Visit http://localhost:4200 and enjoy!
 - Simple Import/Export playlists as JSON
 
 ## TODO
-- ~~'Now playing' when video is minimized~~
-- ~~Update UI to be fully responsive for mobile/tablet~~
-- ~~Browser notification interface when new song is going to start~~
-- Save multiple playlists and switch between them
-- Write tests
+-he application must be a SPA.
+-The application should allow user to add a youtube link to the playlist and start playing from the playlist first in first out.
+-Once a video is finished, it should be removed from the playlist.
+-The youtube link must be validated by the app for proper url format before adding to the queue.
+- Allow the user to remove and reorder items in the playlist.
+- Sync different versions of the application. If the application is open across two tabs, both must be in sync for all activities. For e.g adding/removing/forwarding a video on any one, should update both of them.
 - ...
 
-
-[dependencies]: https://david-dm.org/samirhodzic/ngx-youtube-player.svg
-[dependencies-url]: https://david-dm.org/samirhodzic/ngx-youtube-player
-[dev-dependencies]: https://david-dm.org/samirhodzic/ngx-youtube-player/dev-status.svg
-[dev-dependencies-url]: https://david-dm.org/samirhodzic/ngx-youtube-player?type=dev
-[build-url]: https://travis-ci.org/SamirHodzic/ngx-youtube-player
-[build-url-svg]: https://travis-ci.org/SamirHodzic/ngx-youtube-player.svg?branch=master
