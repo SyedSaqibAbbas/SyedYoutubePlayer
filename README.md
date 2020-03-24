@@ -1,11 +1,11 @@
-![ngx-youtube-player-logo](https://raw.githubusercontent.com/SamirHodzic/ngx-youtube-player/master/src/assets/logo_git.png)
 
-# ngx-YouTube-Player
+
+# Syed-YouTube-Player
 [![build-url][build-url-svg]][build-url]
 [![Dependencies][dependencies]][dependencies-url]
 [![Dev Dependencies][dev-dependencies]][dev-dependencies-url]
 
-> YouTube player app built with Angular 7 (latest 7.1.4).
+
 
 [Demo](https://samirhodzic.github.io/ngx-youtube-player) (Updated: 06/01/2019)
 
@@ -19,12 +19,6 @@
 $ npm install -g @angular/cli@latest
 ```
 
-**2- Clone the project:**
-
-```bash
-$ git clone https://github.com/SamirHodzic/ngx-youtube-player
-$ cd ngx-youtube-player
-```
 
 **3- Install the npm packages described in the package.json :**
 
