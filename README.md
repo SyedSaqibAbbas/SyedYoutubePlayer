@@ -5,10 +5,6 @@
 [![Dependencies][dependencies]][dependencies-url]
 [![Dev Dependencies][dev-dependencies]][dev-dependencies-url]
 
-
-
-
-
 ## Quickstart
 
 **Note**: Require Node 4+ together with Npm 3+, also be sure to install
@@ -55,5 +51,5 @@ Visit http://localhost:4200 and enjoy!
 -The youtube link must be validated by the app for proper url format before adding to the queue.
 - Allow the user to remove and reorder items in the playlist.
 - Sync different versions of the application. If the application is open across two tabs, both must be in sync for all activities. For e.g adding/removing/forwarding a video on any one, should update both of them.
-- ...
+
 
